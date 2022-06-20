@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 Estudando HTML5, CSS3 e JavaScript/react
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
